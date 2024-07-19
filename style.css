@@ -140,15 +140,6 @@ main {
 }
 
 .card {
-    /* width: 360px;
-    min-height: 400px;
-    box-shadow: 0 0 4px #d4ecff;
-    border-radius: 4px;
-    cursor: pointer;
-    background-color: #fff;
-    overflow: hidden;
-    transition: all 0.3s ease; */
-
     width: 360px;
     min-height: 400px;
     box-shadow: 0 0 4px var(--shadow-color);
@@ -160,10 +151,6 @@ main {
 }
 
 .card:hover {
-    /* box-shadow: 1px 1px 8px #d4ecff;
-    background-color: #f9fdff;
-    transform: translateY(-2px); */
-
     box-shadow: 1px 1px 8px var(--shadow-color);
     background-color: #f9fdff;
     transform: translateY(-2px);
